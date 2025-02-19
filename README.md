@@ -24,5 +24,5 @@ Este projeto é um sistema simples de **controle de estoque** para uma clínica.
 1. **Clone o repositório**:
    Primeiro, clone este repositório em sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/douglasmmdev/controle-estoque
 
